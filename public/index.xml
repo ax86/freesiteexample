@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ahalay mahalay</title>
-    <link>https://example.org/</link>
+    <link>https://ax86.github.io/freesiteexample/</link>
     <description>Recent content on Ahalay mahalay</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 08 May 2024 10:42:36 +0300</lastBuildDate>
-    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ax86.github.io/freesiteexample/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Third Post</title>
-      <link>https://example.org/posts/my-third-post/</link>
+      <link>https://ax86.github.io/freesiteexample/posts/my-third-post/</link>
       <pubDate>Wed, 08 May 2024 10:42:36 +0300</pubDate>
-      <guid>https://example.org/posts/my-third-post/</guid>
+      <guid>https://ax86.github.io/freesiteexample/posts/my-third-post/</guid>
       <description>asd lkjahdsf;uhfiuasgflsafgsadfgs dsa asdfasdfads</description>
     </item>
     <item>
       <title>My Second Post</title>
-      <link>https://example.org/posts/my-second-post/</link>
+      <link>https://ax86.github.io/freesiteexample/posts/my-second-post/</link>
       <pubDate>Wed, 08 May 2024 10:41:14 +0300</pubDate>
-      <guid>https://example.org/posts/my-second-post/</guid>
+      <guid>https://ax86.github.io/freesiteexample/posts/my-second-post/</guid>
       <description>это наш второй пост&#xA;и тут у нас есть текст</description>
     </item>
     <item>
       <title>My First Post</title>
-      <link>https://example.org/posts/my-first-post/</link>
+      <link>https://ax86.github.io/freesiteexample/posts/my-first-post/</link>
       <pubDate>Wed, 08 May 2024 10:30:59 +0300</pubDate>
-      <guid>https://example.org/posts/my-first-post/</guid>
+      <guid>https://ax86.github.io/freesiteexample/posts/my-first-post/</guid>
       <description>sdfasdf asdfasdf</description>
     </item>
   </channel>
