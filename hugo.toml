@@ -2,3 +2,9 @@ baseURL = 'https://ax86.github.io/freesiteexample/'
 languageCode = 'en-us'
 title = 'Ahalay mahalay'
 theme = 'ananke'
+
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

@@ -27,7 +27,7 @@
       <link>https://ax86.github.io/freesiteexample/posts/my-first-post/</link>
       <pubDate>Wed, 08 May 2024 10:30:59 +0300</pubDate>
       <guid>https://ax86.github.io/freesiteexample/posts/my-first-post/</guid>
-      <description>sdfasdf asdfasdf</description>
+      <description>sdfasdf asdfasdf&#xA;Изменить текст&#xA;Исходный текст </description>
     </item>
   </channel>
 </rss>

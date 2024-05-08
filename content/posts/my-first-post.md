@@ -5,3 +5,9 @@ draft = false
 +++
 
 sdfasdf asdfasdf
+
+<button id="myButton">Изменить текст</button>
+<div id="myElement">Исходный текст</div>
+
+<script src="../../js/app.js"></script>
+

@@ -1,0 +1,1 @@
+(()=>{"use strict";new class{constructor(e,t){this.elementSelector=e,this.newText=t}attachEventToElement(e){const t=document.querySelector(e),n=document.querySelector(this.elementSelector);t&&n&&t.addEventListener("click",(()=>{n.textContent=this.newText}))}}("#myElement","Новый текст после нажатия кнопки").attachEventToElement("#myButton")})();
